@@ -1,7 +1,8 @@
-<!DOCTYPE html>
-<header>
-CJSF
-</header>
-<style>
-<style>
+<!doctype html lang="en">
+<html>
+	<head>
+		<title>CJSF</title>
+		<link rel="stylesheet" type="text/css" href="mystyle.css">
+	</head>
+<body>	
 
